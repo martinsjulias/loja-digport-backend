@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+//import "fmt"
 
 func main() {
-	fmt.Println("Hello World")
+	StartServer()
+	//produtos := catalogo()
+	//fmt.Printf("Esse é o catálogo da Loja: %+v", produtos)
 }
